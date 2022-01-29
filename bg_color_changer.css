@@ -1,0 +1,99 @@
+body{
+    transition: all .4s;
+}
+
+#color_red{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: red;
+}
+
+#color_black{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: black;
+}
+
+#color_yellow{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: yellow;
+}
+
+#color_white{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: antiquewhite;
+}
+
+#color_blue{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: blue;
+}
+
+#color_cyan{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: cyan;
+}
+
+#color_lime{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: lime;
+}
+
+#color_pink{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: pink;
+}
+
+#color_orange{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: orange;
+}
+
+#color_magneta{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: magenta;
+}
+
+#color_silver{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: silver;
+}
+
+#color_gold{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border-color: transparent;
+    background-color: gold;
+}
